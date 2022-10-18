@@ -30,4 +30,6 @@
 14. docker rmi -> This command is used to delete an image from local storage
 
 15. docker build -> This command is used to build an image from a specified docker file
+
+
 '''
